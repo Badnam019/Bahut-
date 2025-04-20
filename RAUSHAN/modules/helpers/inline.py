@@ -6,26 +6,26 @@ from RAUSHAN import BOT_USERNAME, OWNER
 DEV_OP = [
     [
         InlineKeyboardButton(
-            text=" ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ ",
+            text="• ᴧᴅᴅ мᴇ ʙᴧʙʏ •",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         ),
     ],
     [
-        InlineKeyboardButton(text="ᴏᴡɴᴇʀ", user_id=OWNER),
-        InlineKeyboardButton(text="ʜᴇʟᴘ & ᴄᴍᴅs", callback_data="HELP"),
+        InlineKeyboardButton(text="˹ ❍ᴡɴᴇꝛ ˼", user_id=OWNER),
+        InlineKeyboardButton(text="˹ ʜᴇʟᴘ ᴧиᴅ ᴄᴏᴍᴍᴧɴᴅs ˼", callback_data="HELP"),
     ],
 ]
 
 PNG_BTN = [
     [
         InlineKeyboardButton(
-            text="ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ",
+            text="• ᴧᴅᴅ мᴇ ʙᴧʙʏ •",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         ),
     ],
     [
         InlineKeyboardButton(
-            text="ᴄʟᴏsᴇ",
+            text=" ☆Cʟᴏsᴇ ☆",
             callback_data="CLOSE",
         ),
     ],
